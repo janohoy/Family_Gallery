@@ -1,0 +1,6 @@
+{
+  "name": "Family Gallery",
+  "description": "A responsive family photo and video gallery with automated slideshows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
